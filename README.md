@@ -11,3 +11,13 @@
 - Converting The Scraped Data To a Pandas Data Frame
 - Check the  Data Scraped to Make sure Its Good
 - Saving The File In xlsx and csv Format For Further Analysis
+
+
+# Scraping Amazon HTML Data Without using Requests or API
+
+This is a step by step basic level WebScraping project meant as a PROOF OF CONCEPT .
+
+## Features
+
+- This project is about Scraping Data From Amazon.in and without using Requests or API 
+
