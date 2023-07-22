@@ -14,7 +14,7 @@
 
 # 2)GooglePlay_ScrapData_Sentiment_Analysis_VEDAR_MODEL
 ### This is the contunation of Scraping Google play App Data Reviews project .
-### This is a Proof of Concept Project Real World Data .  
+### This is a Proof of Concept Project using Real World Data .  
 ## Features
 The VADER (Valence Aware Dictionary and sEntiment Reasoner) model is a lexicon and rule-based sentiment analysis tool designed for social media text.
 It is specifically crafted to handle social media content, which often includes informal language, emoticons, and special characters.
