@@ -2,8 +2,8 @@
 
 ## This Is a Proof Of Concep Repository For Potential Recruters Who Are looking to Hire .
 
-## Features
 ### 1) Scraping Google play App Data
+## Features
 - This Project Is about Scraping Data From Google Play Store and the App That is Being Scraped is Call Of Duty *
 - Importing All The Packages required .
 - Upgrading the packages so that it dosent cause a error
@@ -13,7 +13,7 @@
 - Saving The File In xlsx and csv Format For Further Analysis
 
 
-# Scraping Amazon HTML Data Without using Requests or API
+# 2) Scraping Amazon HTML Data Without using Requests or API
 
 This is a step by step basic level WebScraping project meant as a PROOF OF CONCEPT .
 
