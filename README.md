@@ -12,7 +12,7 @@
 - Check the  Data Scraped to Make sure Its Good
 - Saving The File In xlsx and csv Format For Further Analysis
 
-#2)GooglePlay_ScrapData_Sentiment_Analysis_VEDAR_MODEL
+# 2)GooglePlay_ScrapData_Sentiment_Analysis_VEDAR_MODEL
 ### This is the contunation of Scraping Google play App Data Reviews project .
 ### This is a Proof of Concept Project Real World Data .  
 ## Features
