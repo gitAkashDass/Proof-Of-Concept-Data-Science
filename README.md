@@ -32,3 +32,21 @@ This is a step by step basic level WebScraping project meant as a PROOF OF CONCE
 
 - This project is about Scraping Data From Amazon.in and without using Requests or API 
 
+# 4) Quick scrape Web Data With Pandas 
+
+* This is a Proof Of concept
+* The Data Was Scraped From Wikipedia 
+* ISRO and NASA Budget Data Was Scraped
+* Both Data Was Scraped and Converted To a CSV file And uploaded to the Datasets_POC Folder
+
+
+
+
+
+
+
+
+
+
+
+
