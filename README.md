@@ -39,7 +39,11 @@ This is a step by step basic level WebScraping project meant as a PROOF OF CONCE
 * ISRO and NASA Budget Data Was Scraped
 * Both Data Was Scraped and Converted To a CSV file And uploaded to the Datasets_POC Folder
 
-
+# 5) Getting BLACK ROCK and SP500 Stock Data using yfinance 
+* This is a Proof Of concept
+* The Data Was collected using yfinance library
+* S&p500 Data was collected and will be used for further analysis.
+* Black Rock Data was collected and will be used for further analysis.
 
 
 
