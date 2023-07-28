@@ -27,10 +27,7 @@ It is specifically crafted to handle social media content, which often includes 
 # 3) Scraping Amazon HTML Data Without using Requests or API
 
 This is a step by step basic level WebScraping project meant as a PROOF OF CONCEPT .
-
-## Features
-
-- This project is about Scraping Data From Amazon.in and without using Requests or API 
+* This project is about Scraping Data From Amazon.in and without using Requests or API 
 
 # 4) Quick scrape Web Data With Pandas 
 
