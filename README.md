@@ -42,7 +42,10 @@ This is a step by step basic level WebScraping project meant as a PROOF OF CONCE
 * S&p500 Data was collected and will be used for further analysis.
 * Black Rock Data was collected and will be used for further analysis.
 
-
+# 6) SimpleRegression (Implementing simple linear regression models in Python)
+* This is a Proof Of Concept
+* This Project Is About Implementation Of simple Linear Regression 
+* The Data Used in this Project is Uploaded in Datasets_POC
 
 
 
